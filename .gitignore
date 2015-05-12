@@ -35,3 +35,7 @@ proguard/
 # Log Files
 *.log
 >>>>>>> 9ba07d39ee548a9a6b55237cb2cf2c8f740fe60c
+
+# iml files
+app.iml
+museo.iml
